@@ -9,9 +9,9 @@
 
 ###### blablabla ######
 
-* un. ###### blablabla ######
-* deux. ###### blablabla ######
-* trois. ###### blablabla ######
+1. ###### blablabla ######
+2. ###### blablabla ######
+3. ###### blablabla ######
 
 |    développement 		|     langages      | techniques de programmation |
 |-----------------------|-------------------|-----------------------------|
