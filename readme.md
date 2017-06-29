@@ -1,9 +1,18 @@
 # projet sioCrawler #
 
-*git
-*visual studio
-*my sql
-*apache
+###### blablabla ######
+
+* git
+* visual studio
+* my sql
+* apache
+
+
+|    développement 		|     langages      | techniques de programmation |
+|-----------------------|-------------------|-----------------------------|
+|inscription en ligne   |     php, mysql    |            ...              |
+|sio crawler le jeu     |        C#         |             ...             |
+|sauvegarde du contexte |       c#, mysql   |              ...            |
 
 # L'inscription en ligne #
 ##### site web permettant à un joueur de s'inscrire en ligne... #####
