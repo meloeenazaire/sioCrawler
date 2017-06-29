@@ -1,10 +1,10 @@
-#projet sioCrawler#
+# projet sioCrawler #
 
 
 
-#L'inscription en ligne#
+# L'inscription en ligne #
 
 
 
-#sio crawler le jeu#
-###le joueur possèdera les fonctionalités suivantes###
+# sio crawler le jeu #
+### le joueur possèdera les fonctionalités suivantes ###
